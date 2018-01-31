@@ -1,3 +1,13 @@
 ---
 hide_body: false
-fields: []
+fields:
+- type: list
+  name: look_at_this_cool_sortable_lists
+  label: Look at this cool sortable lists
+  description: sortable list
+  default:
+  - '5'
+  - '4'
+  - '3'
+  - '2'
+  - '1'
